@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyaksha Singh</h1>
 <h3 align="center">A passionate college student from India who is looking forward to learn and grow.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=pratyaksha0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksha0612" />
 </p>
 
