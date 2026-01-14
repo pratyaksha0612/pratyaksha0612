@@ -1,29 +1,35 @@
 <h1 align="center">Hi, I'm Pratyaksha Singh</h1>
 
-<p align="center">
+<p align="center" style="margin-bottom: 6px;">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=BBBBBB&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/pratyakshasingh_">
+<p align="center" style="margin-top: 4px;">
+  <a href="https://instagram.com/pratyakshasingh_"
+     style="text-decoration: none;">
     <img 
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
-      style="margin: 0 10px;"
+      style="margin: 0 18px;"
     />
   </a>
-  <a href="https://www.linkedin.com/in/pratyaksha-singh-764916277">
+
+  <a href="https://www.linkedin.com/in/pratyaksha-singh-764916277"
+     style="text-decoration: none;">
     <img 
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
-      style="margin: 0 10px;"
+      style="margin: 0 18px;"
     />
   </a>
-  <a href="mailto:ipratyaksha.works@gmail.com">
+
+  <a href="mailto:ipratyaksha.works@gmail.com"
+     style="text-decoration: none;">
     <img 
       src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"
-      style="margin: 0 10px;"
+      style="margin: 0 18px;"
     />
   </a>
 </p>
+
 
 
 ---
