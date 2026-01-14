@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratyaksha Singh</h1>
 
 <p align="center" style="margin-bottom: 3px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=6B7280&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=4B5563&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
 
 <p align="center">
@@ -54,7 +54,23 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 
 
 ### 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=default&hide_border=true" />
+  <picture>
+    <!-- Dark mode -->
+    <source
+      srcset="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source
+      srcset="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true"
+      alt="GitHub Streak Stats"
+    />
+  </picture>
 </p>
+
+
