@@ -1,6 +1,6 @@
 # Hi! I'm Pratyaksha Singh
 
-I'm a 3rd year Btech CSE AIML student at VIT Bhopal University.<br>I’m currently focused on Focused on AI/ML, computer vision, and accessibility-driven projects, with parallel experience in web development, design, and real-world system deployment.<br>Reach me at: ipratyaksha.works@gmail.com or pratyaksha.23bai10345<br>Based in Bhopal, India
+I'm a 3rd year Btech CSE AIML student at VIT Bhopal University.<br>I’m currently focused on Focused on AI/ML, computer vision, and accessibility-driven projects, with parallel experience in web development, design, and real-world system deployment.<br>Reach me at: ipratyaksha.works@gmail.com or pratyaksha.23bai10345@vitbhopal.a.cin <br>Based in Bhopal, India
 
 
 ## 🌐 Socials:
