@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratyaksha Singh</h1>
 
 <p align="center" style="margin-bottom: 3px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=BBBBBB&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=6B7280&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 
-### About
+### 👩‍💻 About
 
 3rd-year B.Tech CSE (AI & ML) student at **VIT Bhopal University**.  
 Primary interests lie in **AI/ML and computer vision**, with a focus on building **accessibility-driven systems** that translate research into real-world usability.
@@ -29,7 +29,7 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 📫 ipratyaksha.works@gmail.com | pratyaksha.23bai10345@vitbhopal.ac.in
 
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Core**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,9 +53,8 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=default&hide_border=true" />
 </p>
-
