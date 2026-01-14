@@ -1,19 +1,11 @@
 <h1 align="center">Hi, I'm Pratyaksha Singh</h1>
 
 <p align="center">
-  AI & ML • Computer Vision • Accessibility
+  <code>AI & ML · Computer Vision · Accessibility · Design-aware Systems</code>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/pratyakshasingh_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pratyaksha-singh-764916277">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ipratyaksha.works@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
+  <span><a href="https://instagram.com/pratyakshasingh_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a></span><span><a href="https://www.linkedin.com/in/pratyaksha-singh-764916277"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a></span><span><a href="mailto:ipratyaksha.works@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a></span>
 </p>
 
 ---
@@ -21,10 +13,10 @@
 ### About
 
 3rd-year B.Tech CSE (AI & ML) student at **VIT Bhopal University**.  
-Current work focuses on **AI/ML and computer vision**, with a strong interest in building **accessibility-driven systems** designed for real-world usability.
+Primary interests lie in **AI/ML and computer vision**, with a focus on building **accessibility-driven systems** that translate research into real-world usability.
 
-Experience spans **model development, web integration, and design-aware implementation**, emphasizing clarity, scalability, and thoughtful user experience.  
-Based in **Lucknow**, currently in **Bhopal** for academic pursuits.
+Experience includes **model development, web integration, and design-aware implementation**, emphasizing clarity, scalability, and thoughtful user experience.  
+Originally based in **Lucknow**, currently residing in **Bhopal** for academic pursuits.
 
 📍 Lucknow / Bhopal, India  
 📫 ipratyaksha.works@gmail.com | pratyaksha.23bai10345@vitbhopal.ac.in
@@ -59,15 +51,11 @@ Based in **Lucknow**, currently in **Bhopal** for academic pursuits.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyaksha0612&theme=dark&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyaksha0612&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyaksha0612&theme=dark&layout=compact&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=true" />
 </p>
 
 ---
