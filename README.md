@@ -6,16 +6,19 @@
 
 <p align="center" style="margin-top: 0; white-space: nowrap;">
   <a href="https://instagram.com/pratyakshasingh_"
-     style="text-decoration:none;border:none;display:inline-block;margin:0 18px;">
+     style="text-decoration:none;border:none;display:inline-block;margin:0 32px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
-  </a><a href="https://www.linkedin.com/in/pratyaksha-singh-764916277"
-     style="text-decoration:none;border:none;display:inline-block;margin:0 18px;">
+  </a>
+  <a href="https://www.linkedin.com/in/pratyaksha-singh-764916277"
+     style="text-decoration:none;border:none;display:inline-block;margin:0 32px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a><a href="mailto:ipratyaksha.works@gmail.com"
-     style="text-decoration:none;border:none;display:inline-block;margin:0 18px;">
+  </a>
+  <a href="mailto:ipratyaksha.works@gmail.com"
+     style="text-decoration:none;border:none;display:inline-block;margin:0 32px;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 
 ---
