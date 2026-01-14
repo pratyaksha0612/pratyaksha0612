@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pratyaksha Singh</h1>
 
-<p align="center" style="margin-bottom: 6px;">
+<p align="center" style="margin-bottom: 3px;">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=BBBBBB&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
 
@@ -16,7 +16,6 @@
   </a>
 </p>
 
----
 
 ### About
 
@@ -29,7 +28,6 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 📍 Lucknow / Bhopal, India  
 📫 ipratyaksha.works@gmail.com | pratyaksha.23bai10345@vitbhopal.ac.in
 
----
 
 ### Tech Stack
 
@@ -54,11 +52,10 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=true" />
 </p>
 
