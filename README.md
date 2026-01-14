@@ -4,28 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=BBBBBB&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
 
-<p align="center" style="margin-top:0; white-space:nowrap;">
-  <a href="https://instagram.com/pratyakshasingh_"
-     style="text-decoration:none !important; border-bottom:0 !important; outline:none !important;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
-         style="display:block;" />
+<p align="center">
+  <a href="https://instagram.com/pratyakshasingh_" style="margin:0 6px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
   </a>
-
-  <a href="https://www.linkedin.com/in/pratyaksha-singh-764916277"
-     style="text-decoration:none !important; border-bottom:0 !important; outline:none !important; margin-left:32px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
-         style="display:block;" />
+  <a href="https://www.linkedin.com/in/pratyaksha-singh-764916277" style="margin:0 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-
-  <a href="mailto:ipratyaksha.works@gmail.com"
-     style="text-decoration:none !important; border-bottom:0 !important; outline:none !important; margin-left:32px;">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"
-         style="display:block;" />
+  <a href="mailto:ipratyaksha.works@gmail.com" style="margin:0 6px;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
-
-
 
 ---
 
@@ -70,15 +59,6 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyaksha0612&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pratyaksha0612&icon=0&color=1" />
-</p>
