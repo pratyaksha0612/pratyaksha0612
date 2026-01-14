@@ -38,10 +38,9 @@
 ### 👩‍💻 About
 
 3rd-year B.Tech CSE (AI & ML) student at **VIT Bhopal University**.  
-Primary interests lie in **AI/ML and computer vision**, with a focus on building **accessibility-driven systems** that translate research into real-world usability.
-
+My primary interests lie in **AI/ML and computer vision**, with a focus on building **accessibility-driven systems** that translate research into real-world usability.
 Experience includes **model development, web integration, and design-aware implementation**, emphasizing clarity, scalability, and thoughtful user experience.  
-Originally based in **Lucknow**, currently residing in **Bhopal** for academic pursuits.
+Originally based in **Lucknow**, currently living in **Bhopal** for academic pursuits.
 
 📍 Lucknow / Bhopal, India  
 📫 ipratyaksha.works@gmail.com | pratyaksha.23bai10345@vitbhopal.ac.in
