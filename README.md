@@ -1,59 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pratyaksha Singh</h1>
-<h3 align="center">A passionate college student from India who is looking forward to learn and grow.</h3>
+# 💫 About Me:
+I'm a 3rd year Btech CSE AIML student at VIT Bhopal University.<br>I’m currently focused on Focused on AI/ML, computer vision, and accessibility-driven projects, with parallel experience in web development, design, and real-world system deployment.<br>Reach me at: ipratyaksha.works@gmail.com or pratyaksha.23bai10345<br>Based in Bhopal, India
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pratyaksha0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksha0612" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyakshasingh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyaksha-singh-764916277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipratyaksha.works@gmail.com) 
 
-- 🌱 I’m currently working on Web Development & Data Structures and Algoritm
-- 📫 Reach me at: **ipratyaksha.works@gmail.com**  
-- 🏙️ Based in **Bhopal, India**
-- 📄 [View My Resume](https://www.canva.com/design/DAGeDZRnaG4/IJoh-u1e-4BowvkMlVw3cw/view?utm_content=DAGeDZRnaG4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49a502a5a4)
-- 🌐 [My Website/Portfolio](https://impratyaksha.my.canva.site/)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratyaksha0612&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyaksha0612&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pratyaksha0612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔗 Connect with me:
-
-<p align="left">
-<a href="mailto:pratyaksha.23bai10345@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://www.linkedin.com/in/pratyaksha-singh-764916277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pratyaksha0612&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pratyaksha0612&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
----
-
-### 📌 Pinned Projects
-
-- 🔵 [**ASL Detection**](https://github.com/pratyaksha0612/ASL-Detection)
-- 🟣 [**vitB-microsoft-club**](https://github.com/pratyaksha0612/vitB-microsoft-club)
-- 🟠 [**Text-Speech-to-ASL-ISL**](https://github.com/pratyaksha0612/Text-Speech-to-ASL-ISL)
-
----
-
-### 📈 GitHub Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyaksha0612&show_icons=true&theme=default&locale=en" alt="pratyaksha0612" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyaksha0612&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
