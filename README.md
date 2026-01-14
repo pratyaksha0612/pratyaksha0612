@@ -62,11 +62,11 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
       media="(prefers-color-scheme: dark)"
     />
     <!-- Light mode -->
-    <source
-      srcset="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true"
+     <source
+      srcset="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true&text_color=1F2937&sideNums=111827&sideLabels=374151"
       media="(prefers-color-scheme: light)"
     />
-    <img
+   <img
       src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true"
       alt="GitHub Streak Stats"
     />
