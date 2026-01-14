@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Pratyaksha Singh</h1>
 
 <p align="center">
-  <code>AI & ML · Computer Vision · Accessibility · Design-aware Systems</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=BBBBBB&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
 
 <p align="center">
-  <span><a href="https://instagram.com/pratyakshasingh_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a></span><span><a href="https://www.linkedin.com/in/pratyaksha-singh-764916277"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a></span><span><a href="mailto:ipratyaksha.works@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a></span>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyakshasingh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyaksha-singh-764916277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipratyaksha.works@gmail.com)
 </p>
 
 ---
