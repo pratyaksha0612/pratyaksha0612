@@ -13,7 +13,4 @@ I'm a 3rd year Btech CSE AIML student at VIT Bhopal University.<br>I’m current
 ![](https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyaksha0612&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyaksha0612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
