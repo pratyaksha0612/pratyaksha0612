@@ -3,6 +3,24 @@
 <p align="center" style="margin-bottom: 3px;">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=800&color=4B5563&center=true&vCenter=true&width=520&lines=AI+%26+ML+%7C+Computer+Vision+%7C+Accessibility;Design-aware+Systems+%7C+Real-world+Deployment" />
 </p>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      srcset="https://komarev.com/ghpvc/?username=pratyaksha0612&label=Profile%20Views&color=09193b&style=flat"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source
+      srcset="https://komarev.com/ghpvc/?username=pratyaksha0612&label=Profile%20Views&color=93C5FD&style=flat&labelColor=3c5280"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://komarev.com/ghpvc/?username=pratyaksha0612&label=Profile%20Views&color=93C5FD&style=flat"
+      alt="Profile Views"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://instagram.com/pratyakshasingh_" style="margin:0 6px;">
@@ -51,6 +69,21 @@ Originally based in **Lucknow**, currently residing in **Bhopal** for academic p
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📌 Featured Repositories
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=pratyaksha0612&repo=ASL-Detection&theme=github_dark&hide_border=true"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=pratyaksha0612&repo=Text-Speech-to-ASL-ISL&theme=github_dark&hide_border=true"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=pratyaksha0612&repo=genz-media-analysis&theme=github_dark&hide_border=true"
+  />
+</p>
 
 
 ### 📊 GitHub Stats
