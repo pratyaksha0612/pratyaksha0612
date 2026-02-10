@@ -34,6 +34,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="./Pratyaksha%20Singh.mp4">
+    <img src="./Pratyaksha_thumb.jpeg" alt="Introduction Video" width="420"/>
+  </a>
+</p>
+
+<p align="center">
+Click the image to play the introduction video.
+</p>
 
 ### 👩‍💻 About
 
