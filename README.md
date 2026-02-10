@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/pratyaksha0612/pratyaksha0612/main/Pratyaksha%20Singh.mp4">
+  <a href="https://pratyaksha0612.github.io/pratyaksha0612/">
     <img src="./Pratyaksha_thumb.jpeg" alt="Introduction Video" width="420"/>
   </a>
 </p>
