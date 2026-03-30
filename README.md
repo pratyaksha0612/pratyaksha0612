@@ -69,27 +69,3 @@ Originally based in **Lucknow**, currently living in **Bhopal** for academic pur
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <picture>
-    <!-- Dark mode -->
-    <source
-      srcset="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <!-- Light mode -->
-     <source
-      srcset="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true&text_color=1F2937&sideNums=111827&sideLabels=374151"
-      media="(prefers-color-scheme: light)"
-    />
-   <img
-      src="https://nirzak-streak-stats.vercel.app/?user=pratyaksha0612&theme=github-light&hide_border=true"
-      alt="GitHub Streak Stats"
-    />
-  </picture>
-</p>
