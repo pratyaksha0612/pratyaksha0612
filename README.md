@@ -69,3 +69,12 @@ Originally based in **Lucknow**, currently living in **Bhopal** for academic pur
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <a href="https://github.com/tanishhhk">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyaksha0612&theme=github_dark" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
